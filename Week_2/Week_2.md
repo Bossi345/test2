@@ -38,7 +38,7 @@ Preprocessing. Compiling. Assembling. Linking. Debugging. Arrays. Strings. Comma
 * [Section](../../sections/2/)
 * [Practice Problems](Practice_Problems/Practice_Problems.md)
 * [Lab 2](Lab_2.md)
-* [Problem Set 2](../../psets/2/)
+* [Problem Set 2](Problem_Sets/Problem_Sets.md)
 
 
 
