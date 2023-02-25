@@ -16,7 +16,7 @@ Preprocessing. Compiling. Assembling. Linking. Debugging. Arrays. Strings. Comma
 		- [PDF](https://cdn.cs50.net/2022/fall/lectures/2/src2.pdf)
 		- [Zip](https://cdn.cs50.net/2022/fall/lectures/2/src2.zip)
 	+ [Subtitles](https://cdn.cs50.net/2022/fall/lectures/2/lang/en/lecture2.srt)
-	+ [Transcript](Lecture/Transcript.md)
+	+ [Transcript](Lecture/Transcript.txt)
 	+ Video
 		- [CS50 Video Player](https://video.cs50.io/XmYnsO7iSI8?screen=5YGV1hcM_MY)
 		- MP4
