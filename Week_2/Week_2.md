@@ -36,7 +36,7 @@ Preprocessing. Compiling. Assembling. Linking. Debugging. Arrays. Strings. Comma
 	5. [Arrays](../../shorts/arrays/)
 	6. [Command Line Arguments](../../shorts/command_line_arguments/)
 * [Section](../../sections/2/)
-* [Practice Problems](../../problems/2/)
+* [Practice Problems](Practice_Problems/Practice_Problem.md)
 * [Lab 2](Lab_2.md)
 * [Problem Set 2](../../psets/2/)
 
