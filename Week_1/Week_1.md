@@ -16,7 +16,7 @@ C. Source Code. Machine Code. Compiler. Correctness, Design, Style. Visual Studi
 		- [PDF](https://cdn.cs50.net/2022/fall/lectures/1/src1.pdf)
 		- [Zip](https://cdn.cs50.net/2022/fall/lectures/1/src1.zip)
 	+ [Subtitles](https://cdn.cs50.net/2022/fall/lectures/1/lang/en/lecture1.srt)
-	+ [Transcript](https://cdn.cs50.net/2022/fall/lectures/1/lang/en/lecture1.txt)
+	+ [Transcript](Lecture/Transcript.md)
 	+ Video
 		- [CS50 Video Player](https://video.cs50.io/ywg7cW0Txs4?screen=S5uYVc7bm0o)
 		- MP4
